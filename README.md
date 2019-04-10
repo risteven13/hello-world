@@ -1,8 +1,8 @@
 # pollo_pals
 The repository for Hunt's Hens.
+
 DAY 1:
 We teamed with Luke Hunt, who actually sells eggs to the community by word of mouth, to bring Luke’s egg business to the web. This was a perfect opportunity to expand his business and make an amazing website. We came up with 6 aspects of information for our webpage. Those are Home, Order, History, Chickens, Reviews, and Contact. We decided on the title of Hunt’s Hens. Hunt’s mission statement - work in progress. 
-
 
 DAY 2:
 Mission statement:
@@ -21,17 +21,12 @@ DAY 5:
 Today we will start coding the chicken page, and finish the history page.
 Unfortunately we ran into a big problem, we can only have up to 10 code pages. So that means five pages of html and five pages of css.
 
-
-
 DAY 6:
 Today we asked Ms. Kim for help with the limit issue. We linked all of our css together and fixed the file limit problem. We had some kind of issue with saving our work and everything got deleted. This means we have to start over. 
-
-
 
 DAY 7:
 Today we will be working on the coding of the history page… again. We added placeholder pictures until Luke can get them to us. We’re skipping the chicken page because Luke isn’t here and we don’t have any information about chickens. We’ve started coding the review page. 
 We altered the font, changed the background, and finished the history page. 
-
 
 DAY 8:
 Today we will be working on changing the color scheme and finish coding a few more pages.
@@ -45,7 +40,7 @@ Img links: https://i.postimg.cc/N0dZDDXQ/inside-house.jpg
 		https://i.postimg.cc/hGt5Xm56/TOPOFEGG.jpg
 		https://i.postimg.cc/3Nkhm6bM/Photo-on-3-5-19-at-10-35-AM.jpg
 
- Today we worked on adding pictures to the project. Annabelle wasn’t here and riley almost had a panic attack. 
+ Today we worked on adding pictures to the project. Annabelle wasn’t here and we couldn't advance the design.
 
 DAY 10:
 Today we are continuing to add and adjust pictures. Luke emailed a few teachers he previously sold eggs to, here’s his email to them.
@@ -59,7 +54,6 @@ Thank you for your time, Luke Hunt. “
 
 DAY 11:
 Today we’re going to adjust the coding of the navbar. We got the navbar completed and adjusted and edited a few pictures.
-
 
 DAY 12:
 Today we are working on pictures and the chickens and reviews page. We got the reviews back from his customers! 
