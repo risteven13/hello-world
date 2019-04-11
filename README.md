@@ -114,3 +114,6 @@ Today we’re completing the finishing touches. Our website is pretty much finis
 
 DAY 24: 
 Today we made sure we could log into Blackboard to access the links for the competition. 
+
+DAY 25:
+We completed the interviews and are transferring everything to GitHub, as well as completing the submission form.
