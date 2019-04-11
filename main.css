@@ -215,3 +215,17 @@ iframe {
   display: block;
   border: 5px solid #424242;
 }
+.mskimfood {
+  width: 35%;
+  height: 30%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 3px solid white;
+}
+.title {
+ margin-bottom: 1%;
+}
+.line {
+  color: #161d21;
+}
